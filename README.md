@@ -19,14 +19,13 @@ A page for payment and checking out or fallback to shop more
 # About :
 
 This is a responsive shopping site with extremly reusable components ;
-*Firebase for backend
-*FakeStoreAPI for getting products data from API 
-*Context as state manager (also later used redux  instead for better response)
-*Modular CSS for styling (since it resolves CSS stylesheets inheritence problems)
-*used functions in a different file and imported and used them to observe clean coding
-*used React Routers for SPA (Single Page Aplication)
+* Firebase for backend
+* FakeStoreAPI for getting products data from API 
+* Context as state manager (also later used redux  instead for better response)
+* Modular CSS for styling (since it resolves CSS stylesheets inheritence problems)
+* used functions in a different file and imported and used them to observe clean coding
+* used React Routers for SPA (Single Page Aplication)
 
-so we we can see clean coding with reusable components for creating a trending single page aplication with a responsive web design so that we can see sites UI working very good in any device i also designed sites ui my self so thats why thats really simple:)
 
 # Getting Started with Create React App
 
@@ -43,11 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
